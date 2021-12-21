@@ -53,7 +53,7 @@
 * [Seungyoon Repository](https://github.com/seungyoon-Choi/2021_winter_internship)  
 
 ### 김대영  
-* [Daeyoung Repository](https://github.com/)  
+* [Daeyoung Repository](https://github.com/Daeyoung-Kim/2021-winter-internship)  
 
 ### 김한
 * [Han Repository](https://github.com/)  
