@@ -1,6 +1,6 @@
 # 2021-winter-internship
  
-<img src="https://user-images.githubusercontent.com/40378824/123638384-166f9600-d85a-11eb-9cdd-ef97744749ae.png" alt="drawing" width="80%"/>
+<img src="https://user-images.githubusercontent.com/96431635/146849522-0327ac90-ee5b-445b-9961-85663128e229.png" alt="drawing" width="80%"/>
 
 ## Data Science and Artificial Intelligence Laboratory (DSAIL)
 - [Official Laboratory Homepage (Website)](http://dsail.kaist.ac.kr/)
