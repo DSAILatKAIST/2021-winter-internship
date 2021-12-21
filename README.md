@@ -47,28 +47,28 @@
 
 ## Team Introduction (M.S. Student & Lab Interns)  
 ### 김원중
-* [Wonjung Repository](https://github.com/YeonJun-IN/2021_DSAIL_summer_internship)
+* [Wonjung Repository](https://github.com/)
 
 ### 최승윤
-* [Seungyoon Repository](https://github.com/jhkim611/2021_summer_internship)  
+* [Seungyoon Repository](https://github.com/seungyoon-Choi/2021_winter_internship)  
 
 ### 김대영  
-* [Daeyoung Repository](https://github.com/hyemin1826/DSAIL_2021.git)  
+* [Daeyoung Repository](https://github.com/)  
 
 ### 김한
-* [Han Repository](https://github.com/JhngJng/Summer_Internship_2021)  
+* [Han Repository](https://github.com/)  
 
 ### 이종복
-* [Jongbok Repository](https://github.com/hanbitlee/summer_2021)  
+* [Jongbok Repository](https://github.com/)  
 
 ### 이준모  
-* [Junmo Repository](https://github.com/JaeyeongLee1/DSAIL_summer_internship)  
+* [Junmo Repository](https://github.com/)  
 
 ### 이수연  
-* [Sooyeon Repository](https://github.com/sujin53/2021_Summer_Internship)    
+* [Sooyeon Repository](https://github.com/)    
 
 ### 정재원  
-* [Jaewon Repository](https://github.com/kpiswon/2021_DSAIL_summer_internship)  
+* [Jaewon Repository](https://github.com/)  
 
 ### 최호영  
-* [Hoyoung Repository](https://github.com/rlagywns0213/2021_Summer_Internship)  
+* [Hoyoung Repository](https://github.com/)  
