@@ -47,7 +47,7 @@
 
 ## Team Introduction (M.S. Student & Lab Interns)  
 ### 김원중
-* [Wonjung Repository](https://github.com/)
+* [Wonjung Repository (N/A)](https://github.com/)
 
 ### 최승윤
 * [Seungyoon Repository](https://github.com/seungyoon-Choi/2021_winter_internship)  
@@ -59,7 +59,7 @@
 * [Han Repository](https://github.com/Hanookim)  
 
 ### 이종복
-* [Jongbok Repository](https://github.com/)  
+* [Jongbok Repository (N/A)](https://github.com/)  
 
 ### 이준모  
 * [Junmo Repository](https://github.com/LeeJunmo/DSAIL-Lab-Intern)  
@@ -68,7 +68,7 @@
 * [Sooyeon Repository](https://github.com/ghrltla1504)    
 
 ### 정재원  
-* [Jaewon Repository](https://github.com/)  
+* [Jaewon Repository (N/A)](https://github.com/)  
 
 ### 최호영  
-* [Hoyoung Repository](https://github.com/)  
+* [Hoyoung Repository (N/A)](https://github.com/)  
