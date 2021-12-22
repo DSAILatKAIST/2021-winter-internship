@@ -56,16 +56,16 @@
 * [Daeyoung Repository](https://github.com/Daeyoung-Kim/2021-winter-internship)  
 
 ### 김한
-* [Han Repository](https://github.com/)  
+* [Han Repository](https://github.com/Hanookim)  
 
 ### 이종복
 * [Jongbok Repository](https://github.com/)  
 
 ### 이준모  
-* [Junmo Repository](https://github.com/)  
+* [Junmo Repository](https://github.com/LeeJunmo/DSAIL-Lab-Intern)  
 
 ### 이수연  
-* [Sooyeon Repository](https://github.com/)    
+* [Sooyeon Repository](https://github.com/ghrltla1504)    
 
 ### 정재원  
 * [Jaewon Repository](https://github.com/)  
