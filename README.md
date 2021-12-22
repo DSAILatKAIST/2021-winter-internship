@@ -65,7 +65,7 @@
 * [Junmo Repository](https://github.com/LeeJunmo/DSAIL-Lab-Intern)  
 
 ### 이수연  
-* [Sooyeon Repository](https://github.com/ghrltla1504)    
+* [Sooyeon Repository](https://github.com/ghrltla1504/DSAIL_21winter)    
 
 ### 정재원  
 * [Jaewon Repository (N/A)](https://github.com/)  
