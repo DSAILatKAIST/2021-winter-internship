@@ -68,7 +68,7 @@
 * [Sooyeon Repository](https://github.com/ghrltla1504/DSAIL_21winter)    
 
 ### 정재원  
-* [Jaewon Repository (N/A)](https://github.com/)  
+* [Jaewon Repository](https://github.com/)  
 
 ### 최호영  
 * [Hoyoung Repository (N/A)](https://github.com/chy3724/2021_Winter_Internship)  
