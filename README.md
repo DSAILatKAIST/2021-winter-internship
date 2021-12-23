@@ -71,4 +71,4 @@
 * [Jaewon Repository (N/A)](https://github.com/)  
 
 ### 최호영  
-* [Hoyoung Repository (N/A)](https://github.com/)  
+* [Hoyoung Repository (N/A)](https://github.com/chy3724/2021_Winter_Internship)  
