@@ -11,9 +11,9 @@
 ### Basic recommender system and Graph Neural Network
 | Year | Paper | Short | Presenter | slides |
 | :---: | --- | --- | --- | --- |
-| 2009 | [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)| Netflix | 최승윤 | --- |
-| 2008 | [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://dl.acm.org/doi/pdf/10.1145/1401890.1401944)| Netflix | 최승윤 | --- |
-| 2008 | [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)| PMF | 이종복 | --- | 
+| 2009 | [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)| Netflix | 최승윤 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/Netflix.pdf) |
+| 2008 | [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://dl.acm.org/doi/pdf/10.1145/1401890.1401944)| Netflix | 최승윤 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/Netflix.pdf) |
+| 2008 | [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)| PMF | 이종복 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/PMF.pdf) | 
 | 2008 | [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf)| OCCF | 이수연 | --- |
 | 2012 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)| BPR | 최호영 | --- | 
 | 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | 김한 | --- |
@@ -26,7 +26,7 @@
 | 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg | 김한 | --- |
 | 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | 이준모 | --- |
 | 2014 | [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)| Deepwalk | 김대영 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/Deepwalk.pdf) |
-| 2016 | [Node2vec : Scalable Feature Learning for Networks](https://arxiv.org/abs/1607.00653)| Node2Vec | 정재원 | --- |
+| 2016 | [Node2vec : Scalable Feature Learning for Networks](https://arxiv.org/abs/1607.00653)| Node2Vec | 정재원 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/node2vec.pdf) |
 | 2016 | [LINE : Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578)| LINE | 이종복 | --- |
 | 2017 | [metapath2vec : Scalable Representation Learning for Heterogeneous Networks](https://dl.acm.org/doi/10.1145/3097983.3098036)| Metapath2Vec | 최승윤 | --- | 
 | 2016 | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)| GCN | 김한 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/GCN.pdf) |
