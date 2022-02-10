@@ -18,13 +18,13 @@
 | 2012 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)| BPR | 최호영 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/BPR.pdf) | 
 | 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | 김한 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/CML.pdf) |
 | 2017 | [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031)| NCF | 이준모 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/NCF.pdf) |
-| 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 김대영 | --- |
-| 2015 | [Collaborative Deep Learning for Recommender Systems](https://arxiv.org/abs/1409.2944)| CDL | 김대영 | --- |
+| 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 김대영 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/Autorec_CDL.pdf) |
+| 2015 | [Collaborative Deep Learning for Recommender Systems](https://arxiv.org/abs/1409.2944)| CDL | 김대영 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/Autorec_CDL.pdf) |
 | 2010 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)| FM | 김원중 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/FM.pdf) |
 | 2016 | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)| WD | 정재원 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/wide_deep.pdf) |
-| 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | 김한 | --- |
-| 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg | 김한 | --- |
-| 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | 이준모 | --- |
+| 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | 김한 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/SoRec_SoReg.pdf) |
+| 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg | 김한 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/SoRec_SoReg.pdf) |
+| 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | 이준모 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/Youtube.pdf) |
 | 2014 | [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)| Deepwalk | 김대영 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/Deepwalk.pdf) |
 | 2016 | [Node2vec : Scalable Feature Learning for Networks](https://arxiv.org/abs/1607.00653)| Node2Vec | 정재원 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/node2vec.pdf) |
 | 2016 | [LINE : Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578)| LINE | 이종복 | [Slide](https://github.com/DSAILatKAIST/2021-winter-internship/blob/main/slides/LINE.pdf) |
